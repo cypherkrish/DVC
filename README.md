@@ -33,3 +33,15 @@ touch README.md
 '''
 pip install -r requirements.txt
 '''
+
+'''
+dvc init
+'''
+
+'''
+dev repro
+'''
+
+'''
+dev dag
+'''
